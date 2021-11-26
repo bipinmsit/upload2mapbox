@@ -1,0 +1,3 @@
+botocore.exceptions.EndpointConnectionError: Could not connect to the endpoint URL: "https://tilestream-tilesets-production.s3.amazonaws.com/1d/_pending/t7i4qo64ine2a
+z50k4u0xewkc/rahulsds?uploadId=0og0hykkFAE4xtlOCaz_YVoQaWa2HMtK6.9CC29Y.qSjWs4OYjFgThzl.18My5CwppbRgVlPuxdceXnv_NcNpfnncGaKREYzuC01kiyBCLLk52QTAGz5jOaicexbj6HY&partNu
+mber=3"
